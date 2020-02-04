@@ -6,5 +6,6 @@ Sodiq Agunbiade - [sodiq-123](https://github.com/Sodiq-123)
 
 ## Participants
 
-Ogundeyi Boluwatife -[boluwatifeh](http://github.com/boluwatifeh)
-Oreoluwa padonu - [knight](http://github.com/ore291)
+Ogundeyi Boluwatife -[boluwatifeh](http://github.com/boluwatifeh)<br/>
+Oreoluwa padonu - [knight](http://github.com/ore291)<br/>
+Odeshina Abdulquadri - [AbdulQuadri2399](http://github.com/AbdulQuadri2399)<br/>
